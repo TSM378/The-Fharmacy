@@ -1,0 +1,49 @@
+h3 {
+    font-family: Rockwell;
+    font-size:20px;
+    color: #5f9ea0;
+    text-emphasis: underline;
+    opacity: 0.8;
+
+}
+
+#name {
+    font-family: Rockwell;
+    font-size:70px;
+    color: #5f9ea0;
+    text-emphasis: underline;
+    text-shadow: 2px 2px #FFFAF0;
+}
+
+p {
+    font-family: Verdana;
+    font-size:15px;
+    color: solid black;
+    text-emphasis: underline;
+    opacity: 0.8;
+}
+
+.list {
+    font-family: Verdana;
+    font-size:15px;
+    color: solid black;
+    text-emphasis: underline;
+    opacity: 0.8;
+}
+
+table, th, td {
+    border: 0.5px solid black;
+    font-family: Verdana;
+    width: 20%;
+    color: black;
+    padding: 10px;
+    font-size:10px;
+}
+
+h2 {
+    font-family: Rockwell;
+    font-size:50px;
+    color: #5f9ea0;
+    text-emphasis: underline;
+    opacity: 0.8;
+}
